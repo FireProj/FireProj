@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm FireProj 👋</h1>
+<h1 align="center">Hi there, I'm Fire 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile!;IT+student+at+ITIS+F.+Corni,+Modena;Passionate+about+programming+%26+software+development;Always+learning,+always+building.&font=Fira%20Code&center=true&width=600&height=40&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
